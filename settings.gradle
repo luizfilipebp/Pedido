@@ -1,0 +1,6 @@
+rootProject.name = 'Pedido'
+include 'core'
+include 'usecase'
+include 'application'
+include 'infrastructure'
+
