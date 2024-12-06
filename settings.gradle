@@ -1,6 +1,5 @@
-rootProject.name = 'Pedido'
+rootProject.name = 'mspedido'
 include 'core'
 include 'usecase'
 include 'application'
 include 'infrastructure'
-
